@@ -1,6 +1,6 @@
 
 ##
-## The following functions, makeCaheMatrix and cachSolveMatrix 
+## The following functions, makeCacheMatrix and cacheSolveMatrix 
 ## are used to create and retrieve a matrix and inverse matrix.
 ## These functions reduce the costly computation by caching the 
 ## inverse of a matrix rather than computing it repeatedly.
